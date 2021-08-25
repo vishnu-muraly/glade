@@ -5,7 +5,7 @@ h5py
 Pillow==6.1.0
 Flask==1.0.4
 Flask-Uploads==0.2.1
-tensorflow==1.7.0
+tensorflow==2.5.1
 protobuf==3.11.1
 Werkzeug==0.11.15
 gunicorn==19.9.0
